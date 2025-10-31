@@ -1,4 +1,3 @@
-#tests/test_sumar.py 
 from funciones.suma_palazzanii import sumar 
 
 def test_sumar(): 
